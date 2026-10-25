@@ -1,0 +1,13 @@
+{
+  "name": "navcoaching-skills",
+  "owner": { "name": "navcoaching", "url": "https://github.com/navcoaching" },
+  "metadata": { "description": "Design skills mirrored from elayadesign/ai-design-skills (MIT)." },
+  "plugins": [
+    {
+      "name": "ai-design-skills",
+      "source": "./",
+      "description": "landing-page-design and design-to-motion skills.",
+      "version": "1.0.0"
+    }
+  ]
+}

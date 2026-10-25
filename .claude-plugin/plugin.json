@@ -1,0 +1,10 @@
+{
+  "name": "ai-design-skills",
+  "description": "Design skills: landing-page-design (build high converting landing pages with a strict visual system) and design-to-motion (turn a static design into a pixel exact animated showcase with MP4 and GIF exports).",
+  "version": "1.0.0",
+  "author": { "name": "Elaya", "url": "https://github.com/elayadesign" },
+  "homepage": "https://github.com/navcoaching/ai-design-skills",
+  "repository": "https://github.com/navcoaching/ai-design-skills",
+  "license": "MIT",
+  "keywords": ["design", "landing-page", "motion", "animation", "ui"]
+}
