@@ -5,14 +5,14 @@
     "url": "https://github.com/navcoaching"
   },
   "metadata": {
-    "description": "Design skills mirrored from elayadesign/ai-design-skills and elayadesign/redesign-skill (MIT)."
+    "description": "Design skills mirrored from elayadesign/ai-design-skills and elayadesign/redesign-skill (MIT), plus heydamir/unslop (CC BY 4.0)."
   },
   "plugins": [
     {
       "name": "ai-design-skills",
       "source": "./",
-      "description": "landing-page-design, design-to-motion and redesign-existing-projects skills.",
-      "version": "1.0.0"
+      "description": "landing-page-design, design-to-motion, redesign-existing-projects and unslop skills.",
+      "version": "1.1.0"
     }
   ]
 }

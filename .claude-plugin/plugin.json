@@ -1,7 +1,7 @@
 {
   "name": "ai-design-skills",
-  "description": "Design skills: landing-page-design (build high converting landing pages with a strict visual system), design-to-motion (turn a static design into a pixel exact animated showcase with MP4 and GIF exports), and redesign-existing-projects (audit and upgrade an existing site in place).",
-  "version": "1.0.0",
+  "description": "Design skills: landing-page-design (build high converting landing pages with a strict visual system), design-to-motion (turn a static design into a pixel exact animated showcase with MP4 and GIF exports), and redesign-existing-projects (audit and upgrade an existing site in place), and unslop (turn AI-looking UI into a designed interface with its own character).",
+  "version": "1.1.0",
   "author": {
     "name": "Elaya",
     "url": "https://github.com/elayadesign"
@@ -15,6 +15,7 @@
     "motion",
     "animation",
     "ui",
-    "redesign"
+    "redesign",
+    "unslop"
   ]
 }
