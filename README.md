@@ -7,6 +7,17 @@
 | [`landing-page-design`](./skills/landing-page-design/SKILL.md) | بناء صفحة هبوط من الصفر: أسئلة البداية، هيكل الصفحة، كتابة النصوص للتحويل، ونظام بصري صارم (الخطوط، المسافات، الزوايا، الحركة) |
 | [`design-to-motion`](./skills/design-to-motion/SKILL.md) | تحويل تصميم ثابت (Figma أو لقطة) إلى نسخة HTML مطابقة تتحرك: تبدأ فارغة ثم تتعبأ، وكل عنصر يمثّل وظيفته في حلقة متكررة، مع تصدير MP4 لـ X و GIF للموقع و GIF بمقاس 800×500 |
 | [`redesign-existing-projects`](./skills/redesign-existing-projects/SKILL.md) | فحص موقع أو تطبيق موجود: يكشف أنماط التصميم المكررة والحالات الناقصة والكود الضعيف، يعرض التشخيص أولًا، ثم يصلح داخل نفس التقنية بدون إعادة بناء |
+| [`design-system-boss`](./skills/design-system-boss/SKILL.md) | design.how: يشغّل باقي مهارات نظام التصميم لطلب عام مثل «رتّب واجهة التطبيق» |
+| [`build-design-system`](./skills/build-design-system/SKILL.md) | design.how: يبني نظام تصميم من واجهة التطبيق الحالية (توكنز، حالات المكوّنات) |
+| [`migrate-design-system`](./skills/migrate-design-system/SKILL.md) | design.how: ينقل الشاشات إلى نظام تصميم موجود |
+| [`token-mapping`](./skills/token-mapping/SKILL.md) | design.how: تقرير مطابقة القيم المكتوبة يدوياً مع التوكنز (بدون تعديل) |
+| [`component-docs`](./skills/component-docs/SKILL.md) | design.how: توثيق مكوّن واحد من كوده واستخداماته |
+| [`ui-review`](./skills/ui-review/SKILL.md) | design.how: مراجعة شاشة أو تدفق، ومنها إمكانية الوصول |
+| [`make-font`](./skills/make-font/SKILL.md) | design.how: خط خاص مبني على خطوط مفتوحة الرخصة |
+| [`make-logo`](./skills/make-logo/SKILL.md) | design.how: شعار وكتيّب شعار بست اتجاهات |
+| [`make-motion`](./skills/make-motion/SKILL.md) | design.how: فيديو موشن للمنتج عبر Remotion |
+
+مهارات design.how من [arla6ka/design.how](https://github.com/arla6ka/design.how) عند الإيداع `1ce5304` (رخصة MIT، نصها في `licenses/design.how-LICENSE`)، منقولة كما هي بدون تعديل.
 
 المصدر: `ai-design-skills` عند الإيداع `38bbe57` (25 أكتوبر 2026)، و `redesign-skill` عند الإيداع `64627f6` (20 يوليو 2026). النصوص منقولة كما هي بدون تعديل.
 
